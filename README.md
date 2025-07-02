@@ -12,7 +12,8 @@ A fun and interactive Rock Paper Scissors game built using **HTML**, **CSS**, an
 
 ## 📸 Screenshot
 
-![Screenshot][image](https://github.com/user-attachments/assets/29f30107-c895-4dde-8f5a-3977aab63bc5)
+![Screenshot 2025-07-02 130720](https://github.com/user-attachments/assets/020106ef-ef67-4a47-a287-998d4b01b37d)
+
 
 
 ---
